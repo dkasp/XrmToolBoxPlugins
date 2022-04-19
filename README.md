@@ -1,6 +1,4 @@
-# This is not maintained anymore, if you need the issue to be fixed please contact me deepakkumar1984@gmail.com for price quote. Thanks
-
-
+# An attempt to continue the original XrmToolBoxPlugins after it was abandoned
 
 # XrmToolBox plugins
 
